@@ -3,8 +3,14 @@ A Python script that exports an Excel file of the addresses and the amount asset
 
 # Requirements
 ## openpyxl
+'''
 pip install openpyxl
+'''
 ## pandas
+'''
 pip install pandas
+'''
 ## blockfrost-python
+'''
 pip install blockfrost-python
+'''
